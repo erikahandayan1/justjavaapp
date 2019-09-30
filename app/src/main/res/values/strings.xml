@@ -1,0 +1,26 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Java Input</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="name">Nama</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="toppings">Tambahan</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="whipped_cream">Whipped cream</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="chocolate">Coklat</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="quantity">Banyak</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="order">Pesan</string>
+
+
+    <!-- Thank you message for the order summary. [CHAR LIMIT=NONE] -->
+    <string name="thank_you">Terima Kasih!</string>
+</resources>
